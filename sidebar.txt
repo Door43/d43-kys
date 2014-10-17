@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kys:home|Door43 (kys)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kys|d43-kys repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kys/archive/master.zip|d43-kys.zip]]
+
+**Recent Changes**
+{{changes>ns = kys}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kys|Ethnologue data]]
+
